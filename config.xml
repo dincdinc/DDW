@@ -2,8 +2,8 @@
 <widget id="de.turkbul.www" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Bul</name>
-    <description>Niedrig</description>
-    <author email="dinc@" href="http://www.agameoftwohalves.com">AGOTH Webmaster</author>
+    <description>Die besten Angebote aus deiner Nähe</description>
+    <author email="dinc@" href="http://www.turkbul.de">TurkBul</author>
 <content src="Angebote.html" />
 <access origin="*" />
  <allow-intent href="http://*/*" />
